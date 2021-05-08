@@ -1,2 +1,2 @@
-# MTA-Study
-MTA JAVA 연습
+# JAVA/MTA
+MTA : JAVA 공부
